@@ -1,8 +1,8 @@
-YouTube Clone – Video Streaming Prototype
+# YouTube Clone – Video Streaming Prototype
 
 A full-stack video streaming application where users can sign in with Google, upload videos, and watch videos from a curated home page.
 
-Features
+## Features
     -Google Sign-In: Users authenticate via Google OAuth.
     -Video Uploading: Users can upload videos.
     -Video Playback: Videos are displayed on the home page for playback.
@@ -10,7 +10,7 @@ Features
     -Cloud Deployment: Backend services deployed on Firebase Functions and Cloud Run; data stored in Firestore.
     -Containerization: Docker is used to containerize services for consistent deployment.
 
-Technologies Used
+## Technologies Used
     -Frontend: Next.js
     -Backend: Firebase Functions, Cloud Run
     -Authentication: Google OAuth via Firebase Auth
